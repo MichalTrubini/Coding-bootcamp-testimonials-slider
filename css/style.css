@@ -164,4 +164,10 @@ html {
 li {
   list-style: none;
 }
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: #202046;
+  background: #fff;
+}
 /*# sourceMappingURL=style.css.map */
